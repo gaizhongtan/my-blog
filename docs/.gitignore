@@ -1,0 +1,14 @@
+# Python 垃圾文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境 (千万不能传)
+venv/
+.venv/
+
+# 构建输出 (Cloudflare 会自己构建，不需要传)
+site/
+
+# IDE 配置
+.idea/
