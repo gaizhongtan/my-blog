@@ -1,4 +1,4 @@
-site_name: 我的技术修仙之路  # 以后可以在这里改名
+site_name: J-Node 的极客世界  # 以后可以在这里改名
 site_url: https://example.com
 
 # 1. 主题配置：使用 Material 主题
@@ -37,3 +37,4 @@ extra_javascript:
 # 5. 导航栏结构 (你可以手动指定，如果不写这一块，它会自动读取文件夹)
 nav:
   - 首页: index.md
+  - j-node精选文章: my-first-post.md
